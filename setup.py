@@ -9,11 +9,11 @@ config = {
     'url': 'https://github.com/nharringtonwasatch/WPExam',
     'download_url': 'https://github.com/nharringtonwasatch/WPExam',
     'author_email': 'nharrington@wasatchphotonics.com',
-    'version': '0.1',
+    'version': '1.0.0',
     'install_requires': [],
     'packages': ['wpexam'],
     'scripts': [],
-    'name': 'wpexam'
+    'name': 'WPExam'
 }
 
 setup(**config)
